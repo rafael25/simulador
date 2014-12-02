@@ -1,0 +1,13 @@
+{
+    "tiempos": [
+        {"tiempo":20, "probabilidad": 0.02},
+        {"tiempo":25, "probabilidad": 0.08},
+        {"tiempo":30, "probabilidad": 0.12},
+        {"tiempo":35, "probabilidad": 0.25},
+        {"tiempo":40, "probabilidad": 0.20},
+        {"tiempo":45, "probabilidad": 0.15},
+        {"tiempo":50, "probabilidad": 0.10},
+        {"tiempo":55, "probabilidad": 0.05},
+        {"tiempo":60, "probabilidad": 0.03}
+    ]
+}
